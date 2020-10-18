@@ -1,4 +1,4 @@
-![pokemon vagor logo](logo/logo.png)
+<img src="logo/logo.png" align="center" height="300px">
 
 >  **Vagor** *(Latin)* : To Wander
 
